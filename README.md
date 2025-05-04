@@ -8,7 +8,7 @@ Ajudar o Senhor João a escolher qual loja Alura Store vender, mostrando os dado
 
 ## O que foi feito:
 
-No arquivo challenge_python.ipynb você vai ver como analisei os dados para comparar as lojas em:
+No arquivo Challege_AluraStore.ipynb você vai ver como analisei os dados para comparar as lojas em:
 
 Quanto cada loja vendeu (faturamento).
 
@@ -38,4 +38,4 @@ Matplotlib (para criar os gráficos)
 
 ## Para ver o resultado:
 
-Abra o arquivo challenge_python.ipynb, aceito sugestões para melhorar! 😉
+Abra o arquivo Challege_AluraStore.ipynb, aceito sugestões para melhorar! 😉
